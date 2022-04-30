@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋 I'm Nikita <i>(Nick)</i></h1>
 <h3 align="center"><b>Front-end</b> Developer from Ukraine 🇺🇦</h3>
   
-<img align="right" width="400" src="https://i.pinimg.com/originals/2c/2d/6f/2c2d6f89218cdb5c6a345d603484755f.gif">
-<!-- <img align="right" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"> -->
+<!-- <img align="right" width="400" src="https://i.pinimg.com/originals/2c/2d/6f/2c2d6f89218cdb5c6a345d603484755f.gif"> -->
+<img align="right" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 From July 2021 I have been studying at the online academy IT-Incubator (it-incubator.by), in the field of Web Application Development (Front-End).
 
@@ -53,9 +53,6 @@ I am also studying smart contract programming for the Ethereum blockchain platfo
 
 <h3 align="left">Badges:</h3>
 
-<div>
+
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=8bitnikita&show_icons=true&theme=onedark" alt="8bitnikita" />
-</div>
-<div>
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8bitnikita&layout=compact&theme=onedark" />
-</div>
