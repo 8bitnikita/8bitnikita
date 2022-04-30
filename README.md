@@ -55,5 +55,7 @@ I am also studying smart contract programming for the Ethereum blockchain platfo
 
 <div>
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=8bitnikita&show_icons=true&theme=onedark" alt="8bitnikita" />
+</div>
+<div>
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8bitnikita&layout=compact&theme=onedark" />
 </div>
