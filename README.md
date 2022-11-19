@@ -1,7 +1,7 @@
 <img src="https://www.jstips.co/assets/images/jstips-animation.gif">
 
 <h1 align="center">Hi 👋 I'm Nikita <i>(Nick)</i></h1>
-<h3 align="center"><b>Front-end</b> Developer from Ukraine 🇺🇦</h3>
+<h3 align="center"><b>Frontend</b> Developer from Ukraine 🇺🇦</h3>
   
 <!-- <img align="right" width="400" src="https://i.pinimg.com/originals/2c/2d/6f/2c2d6f89218cdb5c6a345d603484755f.gif"> -->
 <img align="right" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
